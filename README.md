@@ -30,7 +30,7 @@ fp.close()
 ```
 ### OUTPUT:
 
-![image](https://github.com/user-attachments/assets/313b099f-ba91-41d7-bc63-fc7ecc7f6236)
+![Screenshot 2024-11-16 223355](https://github.com/user-attachments/assets/ea8348cb-09b1-4152-bd66-d4719161ccbc)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
